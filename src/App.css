@@ -1,0 +1,18 @@
+.App {
+  background-color: black;
+}
+.body {
+  padding: 10%;
+
+  background-color: rgb(225, 233, 233);
+}
+button {
+  font-size: 70px;
+  background-color: blue;
+}
+.hi {
+  background-color: rgb(127, 19, 221);
+}
+.count {
+  font-size: 60px;
+}
